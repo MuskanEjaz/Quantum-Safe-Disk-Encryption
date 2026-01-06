@@ -1,0 +1,19 @@
+# Build folders
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Qt Creator
+*.pro.user
+*.qmlc
+
+# Binaries
+*.exe
+*.dll
+*.o
+*.obj
+
+# OS
+.DS_Store
+Thumbs.db
